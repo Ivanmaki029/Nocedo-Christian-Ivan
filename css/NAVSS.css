@@ -1,0 +1,23 @@
+.nav {
+	background-color: #8258AD;
+	overflow: hidden;
+    font-family: Arial, Times new roman, sans-serif;
+	 }
+
+.nav a {
+	float: left;
+	color:  #989FCE;
+	text-align: center;
+	padding:14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+.nav a:hover {
+	background-color: #543477;
+        color: #C4BBCE;
+	}
+.nav a.active {
+	background-color: #3A0060;
+	color:#8258AD;
+}

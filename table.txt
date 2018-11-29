@@ -1,0 +1,22 @@
+<!Doctype>
+<html>
+<head>
+       <title>Home</title>
+	   <link type="test/css" rel="stylesheet" href="../Virus/Navs/Nocedo-Christian-Ivan">
+	   
+</head>
+<body>
+
+ <div class="Navigation">
+     
+	 <ul>
+  <li><a href="default.asp">Home</a></li>
+  <li><a href="news.asp">News</a></li>
+  <li><a href="contact.asp">Contact</a></li>
+  <li><a href="about.asp">About</a></li>
+</ul>
+
+
+
+</body>
+</html>
